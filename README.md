@@ -1,8 +1,7 @@
 # Solving-Go-Figures-Puzzel-in-mumbai-mirror-C-Project-
 Go Figure puzzle has numbers and we have to put some arithmetic operator and get the mentioned answer. 
 
-here four numbers are given
-<number1>__<number2>__<number3>__<number4> = given__in puzzle>
+number1__number2__number3__number4 = given__in puzzle
 in all possible permutations
   
   
