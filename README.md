@@ -8,3 +8,5 @@ in all possible permutations
 The approach which I used is brute force.
 
 I have considered all possible permutations where we get the sequence of operations which solve down to the given answer.
+
+![Image of Problem Statement](https://github.com/ArjunwadkarAjay/Solving-Go-Figures-Puzzel-in-mumbai-mirror-newspaper-C-Project-/blob/master/Problem%20Statement.jpeg)
